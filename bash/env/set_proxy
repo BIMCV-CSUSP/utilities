@@ -1,0 +1,4 @@
+
+#proxy
+export http_proxy="http://193.145.201.49:8080"
+export https_proxy="http://193.145.201.49:8080"
